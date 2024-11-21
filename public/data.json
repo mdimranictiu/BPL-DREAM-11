@@ -1,0 +1,153 @@
+[
+    {
+      "playerId": 1,
+      "name": "Shakib Al Hasan",
+      "country": "Bangladesh",
+      "image": "https://i.ibb.co.com/ScWspQ8/OIP.jpg",
+      "role": "All-rounder",
+      "battingType": "Left-hand bat",
+      "bowlingType": "Slow left-arm orthodox",
+      "biddingPrice": 1500000
+    },
+    {
+      "playerId": 2,
+      "name": "Tamim Iqbal",
+      "country": "Bangladesh",
+      "image": "https://i.ibb.co.com/4Spv9bb/Tamim-Iqbal.jpg",
+      "role": "Batsman",
+      "battingType": "Left-hand bat",
+      "bowlingType": "Right-arm offbreak",
+      "biddingPrice": 1200000
+    },
+    {
+      "playerId": 3,
+      "name": "Mushfiqur Rahim",
+      "country": "Bangladesh",
+      "image": "https://i.ibb.co.com/WW9jvzJ/observerbd-com-1605541222.jpg",
+      "role": "Wicketkeeper Batsman",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm offbreak",
+      "biddingPrice": 1100000
+    },
+    {
+      "playerId": 4,
+      "name": "Mahmudullah Riyad",
+      "country": "Bangladesh",
+      "image": "https://i.ibb.co.com/PzZwyYY/OIP-3.jpg",
+      "role": "All-rounder",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm offbreak",
+      "biddingPrice": 1000000
+    },
+    {
+      "playerId": 5,
+      "name": "Mustafizur Rahman",
+      "country": "Bangladesh",
+      "image": "https://i.ibb.co.com/d7qCg0d/Mustafizur-Rahman.jpg",
+      "role": "Bowler",
+      "battingType": "Left-hand bat",
+      "bowlingType": "Left-arm fast-medium",
+      "biddingPrice": 900000
+    },
+    {
+      "playerId": 6,
+      "name": "Liton Das",
+      "country": "Bangladesh",
+      "image": "https://i.ibb.co.com/LpVSJhT/R.jpg",
+      "role": "Wicketkeeper Batsman",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm offbreak",
+      "biddingPrice": 950000
+    },
+    {
+      "playerId": 7,
+      "name": "Taskin Ahmed",
+      "country": "Bangladesh",
+      "image": "https://i.ibb.co.com/R04GPxz/OIP-4.jpg",
+      "role": "Bowler",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm fast",
+      "biddingPrice": 850000
+    },
+    {
+      "playerId": 8,
+      "name": "Afif Hossain",
+      "country": "Bangladesh",
+      "image": "https://i.ibb.co.com/q9Qj4xN/OIP-5.jpg",
+      "role": "All-rounder",
+      "battingType": "Left-hand bat",
+      "bowlingType": "Right-arm offbreak",
+      "biddingPrice": 800000
+    },
+    {
+      "playerId": 9,
+      "name": "Soumya Sarkar",
+      "country": "Bangladesh",
+      "image": "https://i.ibb.co.com/hDZ0Xrw/R-1.jpg",
+      "role": "All-rounder",
+      "battingType": "Left-hand bat",
+      "bowlingType": "Right-arm medium-fast",
+      "biddingPrice": 780000
+    },
+    {
+      "playerId": 10,
+      "name": "Mehidy Hasan Miraz",
+      "country": "Bangladesh",
+      "image": "https://i.ibb.co.com/5xZ5VXJ/OIP-6.jpg",
+      "role": "All-rounder",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm offbreak",
+      "biddingPrice": 950000
+    },
+    {
+      "playerId": 11,
+      "name": "Mohammad Saifuddin",
+      "country": "Bangladesh",
+      "image": "https://i.ibb.co.com/mqLMthN/R-2.jpg",
+      "role": "All-rounder",
+      "battingType": "Left-hand bat",
+      "bowlingType": "Right-arm fast-medium",
+      "biddingPrice": 870000
+    },
+    {
+      "playerId": 12,
+      "name": "Nasum Ahmed",
+      "country": "Bangladesh",
+      "image": "https://i.ibb.co.com/3fvg3XH/Nasum-Ahmed-ss.jpg",
+      "role": "Bowler",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Slow left-arm orthodox",
+      "biddingPrice": 750000
+    },
+    {
+      "playerId": 13,
+      "name": "Shoriful Islam",
+      "country": "Bangladesh",
+      "image": "https://i.ibb.co.com/cJZzHCf/OIP-7.jpg",
+      "role": "Bowler",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Left-arm fast",
+      "biddingPrice": 820000
+    },
+    {
+      "playerId": 14,
+      "name": "Yasir Ali",
+      "country": "Bangladesh",
+      "image": "https://i.ibb.co.com/V3yD4JY/Yasir-Ali-5-16-1587929833.jpg",
+      "role": "Batsman",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm offbreak",
+      "biddingPrice": 650000
+    },
+    {
+      "playerId": 15,
+      "name": "Nurul Hasan",
+      "country": "Bangladesh",
+      "image": "https://i.ibb.co.com/28py6pp/R-3.jpg",
+      "role": "Wicketkeeper Batsman",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm offbreak",
+      "biddingPrice": 700000
+    }
+  ]
+  

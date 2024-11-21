@@ -1,0 +1,6 @@
+.custom-bg-img{
+    background-image: url('../../assets/images/bg-shadow.png');
+    background-size: cover;
+    background-position: center; 
+    background-repeat: no-repeat; 
+  }
